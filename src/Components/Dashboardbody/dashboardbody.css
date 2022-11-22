@@ -1,0 +1,57 @@
+
+
+.dashboard-body-title p{
+    font-size:10.5px;
+    color:#999;
+    font-weight: 900;
+    text-transform: uppercase;
+   
+}
+.dashboard-body-title{
+    justify-content: space-between;
+}
+.dashboard-body{
+    padding:10px 10px;
+}
+.view-list-btn{
+    font-size: 10px;
+    color:#999;
+    background-color: #fff;
+    border:0.5px solid;
+    border-color:rgba(0,0,0,0.1);
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+    padding: 2px 2px;
+
+}
+.view-right-btn{
+    font-size: 10px;
+    color:#999;
+    border:0.5px solid;
+    border-color:rgba(0,0,0,0.1);
+    background-color: #fff;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    padding: 2px 2px;
+
+}
+.icon-holder{
+    padding-top:2px;
+    padding-right:2px;
+}
+.list-holder{
+    margin-top:10px;
+    width:100%;
+    flex-wrap: wrap;
+}
+.db-body-owe-list{
+    width:50%;
+    border-right:1px solid #ccc;
+    padding:0px 10px;
+    color:#ff652f;
+}
+.db-body-owed-list{
+    width:50%;
+    padding:0px 10px;
+    color:#5bc5a7;
+}

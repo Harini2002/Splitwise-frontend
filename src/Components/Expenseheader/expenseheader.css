@@ -1,0 +1,48 @@
+.expense-content{
+    padding: 5px 5px;
+    letter-spacing: 0.5px;
+}
+/* .btn-div{
+    width:40%;
+    justify-content: space-between;
+} */
+
+.expense-expense-btn{
+    background: #ff652f;
+    color: #fff;
+    text-shadow: 0 -1px 0 #c83400;
+    font-size: 12px;
+    padding:4px 10px;
+    text-align: center;
+    border: 1px solid #c83400;
+    border-left:none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+}
+.expense-settle-btn{
+    background: #5bc5a7;
+    color: #fff;
+    text-shadow: 0 -1px 0 #318970;
+    font-size: 12px;
+    padding:4px 10px;
+    text-align: center;
+    margin-right: 5px;
+    border:0px solid;
+    border-radius: 3px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+}
+.expense-part{
+    background: #ff652f;
+    color: #fff;
+    text-shadow: 0 -1px 0 #c83400;
+    font-size: 12px;
+    padding:0px 3px;
+    text-align: center;
+    margin-right: 5px;
+    border:0px solid;
+    border:1px solid #c83400;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+}

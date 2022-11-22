@@ -1,0 +1,42 @@
+.acc-footer{
+    background: #666;
+    justify-content: center;
+    color: #fff;
+}
+.account-footer-icon{
+    width:25px;
+    height:25px;
+    margin:0px 4px;
+}
+.acc-footer-content{
+    padding-top: 20px;
+    padding-bottom:25px;
+    width:725px;
+    justify-content: space-between;
+    margin:auto;
+}
+.justify-right{
+    justify-content: right;
+}
+.acc-footer-made-smile{
+    font-size: 16px;
+    text-shadow: 0 -1px 0 #000;
+    margin-bottom:10px;
+}
+.acc-footer-copyrights{
+    font-size: 12px;
+    text-shadow: 0 -1px 0 #000;
+}
+.acc-footer-links-Link{
+      font-size: 11px;
+      color: #fff;
+      text-shadow: 0 -1px 0 #000;
+      text-decoration: none;
+      margin-right: 5px;
+      margin-left:5px;
+      border-bottom: 1px dashed #999;
+      
+}
+.margin-t-5{
+    margin-top: 5px;
+}

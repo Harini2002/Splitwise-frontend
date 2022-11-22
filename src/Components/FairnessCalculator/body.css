@@ -1,0 +1,96 @@
+.calculator-container{
+    width:725px;
+    margin:auto;
+}
+.calculator-title h2{
+    margin-left:10px;
+    font-size: 22px;
+    color: #333333;
+    line-height: 28px;
+    font-weight: 600;
+
+}
+.calculator-title{
+    margin-top: 20px;
+}
+.calculator-title h3{
+    margin-left:10px;
+    font-size: 12px;
+    color: #999;
+    line-height: 20px;
+    font-weight: normal;
+
+}
+.calculator-question-col{
+    margin-top:20px;
+    margin-bottom:20px;
+   
+}
+.calculator-question-btn {
+    width: 340px;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 24px;
+    padding: 12px;
+    border-radius: 8px;
+    color: #000;
+    background: #eee;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+}
+.calculator-question-btn p{
+    margin-left:10px;
+}
+.cal-que-img{
+    width:140px;
+    height:140px;
+}
+.align-center{
+    align-items: center;
+}
+.cal-feature-img{
+    width:120px;
+    height:120px;
+}
+.cal-feature-title{
+    color: #666;
+    border-bottom: 1px solid #ddd;
+    display: inline-block;
+    padding-bottom: 6px;
+    margin-bottom: 7px;
+    font-size: 11px;
+}
+.calculator-feature-col{
+    margin-left:50px;
+justify-content: center;
+    flex-wrap: wrap;
+}
+.calculator-feature-btn{
+    width: 140px;
+    margin: 3px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 8px;
+    color: #000;
+    background-color: #fff;
+    overflow: hidde
+}
+.cal-feature-description{
+    font-size:10px ;
+    text-decoration: none;
+    color: #000;
+}
+.cal-feature-pointer{
+    font-size: 12px;
+    font-weight: bold;
+    vertical-align: middle;
+    margin-bottom:5px;
+}
+.calculator-ask-splitwise{
+    font-size: 11px;
+   margin-top:20px ;
+   margin-bottom: 30px;
+    justify-content: center;
+    color: #333333;
+    margin-left: 20px;
+}

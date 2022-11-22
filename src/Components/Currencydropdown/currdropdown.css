@@ -1,0 +1,19 @@
+select{
+    font-size: 14px;
+    width: 150px;
+    border: 1px solid #bbb;
+    margin-bottom: 17px;
+    vertical-align: baseline;
+    font-family: 'Lato';
+    color: #555555;
+    font-weight: normal;
+}
+option {
+    font-weight: normal;
+    display: block;
+    white-space: nowrap;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+    font-size: 14px;
+    font-family: 'Lato';
+}

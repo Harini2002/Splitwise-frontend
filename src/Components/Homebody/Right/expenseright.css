@@ -1,0 +1,38 @@
+.menu-btn{
+    color: #999;
+    width: 18px;
+    height: 18px;
+    margin-right:2px;
+    margin-top:4px;
+    border:0px solid ;
+    border-width:1px;
+    border-color: #999;
+    border-radius: 2px;
+    text-align: center;
+    padding:2px 2px ;
+}
+
+.balance-div{
+    font-family: 'Montserrat';
+    display:none;
+}
+.title{
+  font-size: 9px;
+  font-weight: 900;
+  color: #999;
+  margin-top:12px;
+  margin-bottom:12px;
+}
+.balance{
+    font-size:12px;
+}
+#owed{
+    color: #5bc5a7;
+}
+#owe{
+    color: #ff652f;
+}
+.amount{
+    font-size: 20px;
+    font-weight: 900;
+}

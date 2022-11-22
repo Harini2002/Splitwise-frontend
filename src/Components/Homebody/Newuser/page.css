@@ -1,0 +1,60 @@
+.setup-page-container{
+    margin: 20px auto;
+    width:520px;
+  
+}
+.setup-orange-mascort{
+    height: 240px;
+    width: 120px;
+    margin-right:20px;
+}
+.setup-logo{
+    margin-right:10px;
+    width:40px;
+    height: 40px;
+}
+.setup-page h1{
+    font-size: 28px;
+    font-family: 'Lato';
+    margin-bottom:10px;
+}
+.setup-page p{
+  color: #333333;
+  margin-top:5px;
+  margin-bottom:10px;
+}
+.setup-page{
+ justify-content: center;
+}
+.flex.col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.linkholder{
+    font-size: 10px;
+    margin-top: 2px;
+}
+.setup-btn{
+    width:220px;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.btn-orange{
+    text-align: left;
+    background: #ff652f;
+    color: #fff;
+    text-shadow: 0 -1px 0 #c83400;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+
+}
+.btn-grey{
+    background-color: #e6e6e6;;
+    color: #333333;
+    text-shadow:  0 1px 1px rgb(255 255 255 / 75%);
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+}

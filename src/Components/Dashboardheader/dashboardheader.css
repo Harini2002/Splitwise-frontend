@@ -1,0 +1,78 @@
+.dashboard-header{
+   
+    justify-content: space-between;
+    background-color:#eee;
+    color: #333333;
+    display: block;
+    margin-top:0px;
+    border-bottom: 1px solid #ddd;
+}
+.dashboard-content{
+    padding:10px 6px;
+   border-bottom: 1px solid #ddd; 
+   justify-content: space-between;
+
+}
+
+.dashboard-title{
+    padding: 5px 5px;
+    letter-spacing: 0.5px;
+}
+/* .btn-div{
+    width:40%;
+    justify-content: space-between;
+} */
+
+.expense-btn{
+    background: #ff652f;
+    color: #fff;
+    text-shadow: 0 -1px 0 #c83400;
+    font-size: 12px;
+    padding:4px 10px;
+    text-align: center;
+    margin-right: 5px;
+    border:0px solid;
+    border-radius: 3px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+}
+.settle-btn{
+    background: #5bc5a7;
+    color: #fff;
+    text-shadow: 0 -1px 0 #318970;
+    font-size: 12px;
+    padding:4px 10px;
+    text-align: center;
+    margin-right: 5px;
+    border:0px solid;
+    border-radius: 3px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+}
+/* dashboard -balance */
+.dashboard-balance{
+    padding:10px 6px;
+}
+.flex-col{
+    flex-direction: row;
+}
+.owed p{
+    color:#5bc5a7;
+}
+.dashboard-balance{
+    font-size: 10px;
+    color: #999;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.owe p{
+    color:#ff652f;;
+}
+.block{
+    text-align: center;
+    width:175px;
+    border-left:1px solid #ddd;;
+  
+}
+.no-border{
+    border-left: none;
+}
+

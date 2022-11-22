@@ -1,0 +1,50 @@
+h1{
+    font-size: 2.4rem;
+    color: #373B3F;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    letter-spacing: 1px;
+    margin-bottom: 20px;;
+}
+.icon{
+    width: 30px;
+    height:30px;
+    margin-right: 10px;
+}
+.feature-div{
+    width:750px;
+    justify-content: center;
+    padding-top: 30px;
+    max-width: 1240px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image{
+    width:26rem;
+    height:26rem;
+ 
+}
+.feature-div-content{
+ margin-top:50px;
+
+}
+.feature-div-img{
+    margin-left:80px;
+    
+}
+
+.feature-div p{
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-family: 'Lato';
+    width:250px;
+  
+}
+.app-availablity{
+    color: #373B3F;
+}
+
+.linktag{
+    text-decoration: none;
+    color: #373B3F;
+}

@@ -1,0 +1,18 @@
+.navbar {
+    padding:16px 40px;
+   max-width: 1000px;
+     
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .nav-links {
+    display: flex;
+  }
+ .split-logo{
+  height:40px;
+  width: 100px;
+
+ }

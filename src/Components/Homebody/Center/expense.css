@@ -1,0 +1,10 @@
+.expense-header{
+    padding:10px 6px;
+    justify-content: space-between;
+    background-color:#eee;
+    color: #333333;
+    height: 50px;
+    margin-top:0px;
+    border-bottom: 1px solid #ddd;
+}
+

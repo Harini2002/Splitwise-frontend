@@ -1,0 +1,21 @@
+.user-block{
+    margin-bottom:2px;
+  
+}
+
+.user-block .profile{
+    margin-right:2px;
+    height:30px;
+    width:30px;
+    border:1px solid #ccc;
+    border-radius: 30px;
+}
+.no-decoration{
+    text-decoration: none;
+}
+.text-black{
+    color: #000;
+}
+.font-12{
+    font-size:12px;
+}

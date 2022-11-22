@@ -1,0 +1,38 @@
+.contact-body{
+    background: url('../../Assets/images/logo.png');
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-size: 1250px;
+    background-position: center 0px;
+    margin-bottom:30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.width-50{
+    width:50%;
+}
+.contact-container{
+ 
+    max-width: 920px;
+    margin:auto;
+}
+.contact-container h1{
+    font-family: 'Montserrat';
+    margin-top:20px;
+    font-size: 28px;
+    font-weight: 900;
+    letter-spacing: normal;
+}
+.contact-container h3{
+    font-family: 'Montserrat';
+    margin-top:14px;
+    font-size: 18px;
+    font-weight: 900;
+    letter-spacing: normal;
+    margin-bottom:5px;
+}
+
+.contact-email-description{
+    font-size:12px;
+    margin-top: 15px;
+}

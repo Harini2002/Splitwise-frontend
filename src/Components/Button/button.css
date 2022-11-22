@@ -1,0 +1,304 @@
+
+.signupbtn {
+    background-color: #1CC29F;
+    font-size: 0.875rem;
+    border-radius: 5px;
+    padding: 12px 20px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Montserrat;
+    color:#fff;
+    border: 0px ;
+}   
+
+.loginlink {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: 600;
+    font-family: Montserrat;
+    font-size: 0.875rem;
+    text-decoration: none;
+    color: #1CC29F;
+
+}
+.forgotpassword {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: 600;
+    font-family: Montserrat;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #18A582;
+    border: 0 solid;
+
+}
+.loginbtn{
+    display:block;
+    background-color:  #18A582;;
+    color:#fff;
+    text-align: center;
+    width: 100%;
+    font-family: Montserrat;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 100%;
+    border:0 solid;
+    box-shadow:  0 2px 0 0 rgb(55 59 63 / 50%);
+
+    
+}
+.loginbtnlink{
+    text-decoration: none;
+   
+}
+.googlebtnlink{
+    display: flex;
+    justify-content: center;
+    align-items: middle;
+    text-decoration: none;
+    vertical-align: middle;
+
+}
+.googleloginbtn{
+    width: 100%; 
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #E6E8EE;
+    background-color: #fff;
+    cursor: pointer;
+    font-weight: 600;
+    box-shadow: 0 2px 0 0 rgb(55 59 63 / 50%);
+    line-height: 2rem;
+    font-family:'Montserrat';
+
+}
+.googlesignbtn{
+    padding: 3px 6px;
+    margin: 0 0 3px 0;
+    font-size: 10px;
+    color: #777;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    border: 1px solid #cccccc;
+    box-shadow: 0 2px 0 0 rgb(55 59 63 / 50%);
+    line-height: normal;
+    font-family:'Montserrat';
+}
+.googlesign:hover {
+    margin-top: 2px;
+    margin-bottom: -2px;
+    box-shadow: none;
+}
+
+.googleimg{
+    margin-right: 0.5rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    vertical-align: middle;
+}
+
+.listvalue{
+    color: #52595f;
+    text-decoration: none;
+
+}
+.googleimg-min{
+    margin-right: 4px;
+    width: 12px;
+    height:12px;
+    vertical-align: middle;
+}
+
+.tos{
+    text-decoration: none;
+    font-size: 12px;
+    color: #0088cc;
+}
+.clickhere{
+    text-decoration: none;
+    font-size: 12px;
+    color: #0088cc;
+}
+.home-signup{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #fff;
+    background-color:#4D373B3F;
+    color: #fff;
+    font-family:'Montserrat';
+    font-weight: 600;
+}
+.review{
+    text-decoration: none;
+    margin: 20px 0px;
+    color:  #000000;
+   
+}
+.inner-review-box{
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.review-box{
+    border: 0 solid;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color:  #E6E8EE;;
+    height: 180px;
+    width: 300px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-right: 10px;
+    margin-bottom:10px;
+}
+
+.profile{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.flex-end{
+    align-items: flex-end;
+}
+.review span{
+font-style: italic;
+font-family: 'Lato';
+}
+.review p{
+    font-family: 'Montserrat';
+}
+.changing-signup{
+    background-color: #1CC29F;
+    font-size: 0.900rem;
+    border-radius: 5px;
+    padding: 15px 50px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Montserrat;
+    color:#fff;
+    border: 0px ;
+}
+.windows-phone{
+    text-decoration: none;
+    font-size: 10px;
+    color: #0088cc;
+}
+.windows-phone :hover{
+    text-decoration:underline;
+     font-size: 10px;
+        color: #0088cc;
+}
+
+.dropdown-btn{
+    text-decoration: none;
+    font-size:11px;
+    color:#52595f;
+    padding: 0px 12px;
+    display: block;
+}
+.dropdown-btn:hover{
+    color: #fff;
+}
+.homelink{
+    text-decoration: none;
+    color:#fff;
+    font-size:11px;
+    margin-right:14px;
+    padding-top: 2px;
+}
+.get-pro-violet{
+    margin-top:10px;
+    font-size: 12px;
+    padding: 4px 6px;
+    background: #8656cd;
+    color: #fff;
+    border:0px solid ;
+    border-width:1px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-radius: 3px;
+    text-shadow: 0 -1px 0 #222;
+}
+.save-btn-orange{
+    font-size: 11px;
+    border:0px solid ;
+    color: #fff;
+    padding: 6px 10px;
+    background: #ff652f;
+    border-width:1px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-radius: 3px;
+    text-shadow: 0 -1px 0 #c83400;
+}
+.add-feature-pro-btn{
+    font-size: 10px;
+    padding: 4px 6px;
+    background: #48be9d;
+    color: #fff;
+    border:0px solid ;
+    border-width:1px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-radius: 3px;
+    text-shadow: 0 -1px 0 #318970;
+}
+
+.add-feature-merge-btn{
+    font-size: 10px;
+    padding: 4px 6px;
+    background: #e6e6e6;
+    color: #333333;
+    border:0px solid ;
+    margin-bottom:10px;
+    border-width:1px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-radius: 3px;
+    text-shadow: 0 1px 1px rgb(255 255 255 / 75%);
+
+}
+.add-feature-delete-btn{
+    font-size: 10px;
+    padding: 4px 6px;
+    background: #ae2f3f;
+    color: #fff;
+    border:0px solid ;
+    border-width:1px;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-radius: 3px;
+    text-shadow: 0 -1px 0 #9a2a38;
+}
+.edit-btn{
+    background: none;
+    border: 0px;
+    color: #0088cc;
+    font-size: 10px;
+    display: inline;
+    margin-left:5px;
+}
+.calculator-ask-btn{
+    color: #0088cc;
+    text-decoration: none;
+}
+.contact-links{
+    text-decoration: none;
+    font-size: 16px;
+    color:#137863;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+
+.setup-clickhere{
+    font-size: 10px;
+    color: #0088cc;
+    text-decoration: none;
+}
